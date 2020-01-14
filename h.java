@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class tery here.
+ * Write a description of class h here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class tery
+public class h
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class tery
+     * Constructor for objects of class h
      */
-    public tery()
+    public h()
     {
         // initialise instance variables
         x = 0;
