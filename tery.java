@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class adri here.
+ * Write a description of class tery here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class adri
+public class tery
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class adri
+     * Constructor for objects of class tery
      */
-    public adri()
+    public tery()
     {
         // initialise instance variables
         x = 0;
