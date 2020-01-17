@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Lesson1Github here.
+ * Esta es la clase  Lesson1Github sobre la utilizacion en github.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Cristian y Adrian) 
+ * @version 0.1
  */
 public class Lesson1Github
 {
@@ -11,23 +11,25 @@ public class Lesson1Github
     private int x;
 
     /**
-     * Constructor for objects of class Lesson1Github
+     * Constructor de objetos de la clase Lesson1Github
+     * @param x numero entero = 5
      */
     public Lesson1Github()
     {
-        // initialise instance variables
-        x = 0;
+        // inicialiso instancias 
+        x = 5;
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * un nuevo metodo con parametros 
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @param  y = numeros enteros introducido 
+     * @return     la suma de x + y 
      */
     public int sampleMethod(int y)
     {
         // put your code here
+        
         return x + y;
     }
 }

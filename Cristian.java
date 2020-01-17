@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Cristian here.
+ *  Clase Cristian que va a comparar objetos.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Cristian) 
+ * @version 0.2
  */
 public class Cristian
 {
@@ -11,7 +11,9 @@ public class Cristian
     private int x;
 
     /**
-     * Constructor for objects of class Cristian
+     * Constructor de la clase Cristian
+     * @param x = numero entero 
+     * @param B comparar los objetos
      */
     public Cristian()
     {
@@ -20,10 +22,10 @@ public class Cristian
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * Clase que guarda objetos en una coleccion
      * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * @param coleccion de objetos que guardada 
+     * @return   los objetos guardados  en la coleccion por orden
      */
     public int sampleMethod(int y)
     {
