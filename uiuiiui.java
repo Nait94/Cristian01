@@ -1,9 +1,11 @@
 
 /**
- * Write a description of class uiuiiui here.
+
+/**
+ * Esta clase crea vehiculos.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Adrián Laya García
+ * @version 0.1
  */
 public class uiuiiui
 {
@@ -20,14 +22,16 @@ public class uiuiiui
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * este método busca un coche
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @param  y es un String que es el modelo del coche a buscar.
+     * @return   devuelve un true si el modelo se encuentra en el concesionário
+     *                    y false si el modelo no se encuentra en el concesionario. 
+     * @see     h      
      */
-    public int sampleMethod(int y)
+    public boolean sampleMethod(String y)
     {
         // put your code here
-        return x + y;
+        return  false;
     }
 }

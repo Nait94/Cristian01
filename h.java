@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class h here.
+ * Esta clase mete al concesionario los coches
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Adrián Laya García
+ * @version 0.1
  */
 public class h
 {
@@ -20,14 +20,15 @@ public class h
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * Este método mete modelos de coche al concesionário si nó existen.
      *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
+     * @param y es un String que es el modelo del coche a buscar y que lo incluye .
+     * @return    la inclusión del modelo al concesionário.
+     * @see    uiuiiui
      */
     public int sampleMethod(int y)
     {
         // put your code here
-        return x + y;
+        return y;
     }
 }
